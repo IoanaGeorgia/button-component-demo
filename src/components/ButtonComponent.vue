@@ -1,4 +1,9 @@
 <template>
+<!-- I used the name 'default' for the coloring, therefore the variant I renamed to 'simple' -->
+
+<!-- for the icons, the prop should send the name of the material icon and it will be displayed automatically -->
+
+<!-- I combined the colors with each variant and hover effect -->
   <span> 
   <button :class="buttonStyling">
 <span v-if="startIcon" class="material-icons-outlined" :style="{'padding-right':'7px'}">

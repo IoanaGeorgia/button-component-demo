@@ -17,9 +17,4 @@ export default {
 
 <style>
 
-/* classes added to normalize the CSS */
-#app * {
-  padding:0px;
-  margin:0px;
-}
 </style>
