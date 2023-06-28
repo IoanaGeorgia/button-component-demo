@@ -1,7 +1,7 @@
 <template>
   <div>
   <h2>Buttons</h2>
-  <h5 :style="{'color':'grey', 'font-style':'italic'}">Coded by Pascu Ioana</h5>
+  <h5 :style="{'color':'grey', 'font-style':'italic'}">Coded by Pascu Ioana-Georgia in Vue</h5>
 
         <div class="columnFlex">
   <p> {{`< ButtonComponent />`}} </p>
